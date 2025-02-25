@@ -1,0 +1,318 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:15:1-36:12
+INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:15:1-36:12
+INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:15:1-36:12
+INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:15:1-36:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3f8e9dacf2dabfc4a6993c0c2f1ce28f\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\abcaac65ffe9b00899c47f0ff14de671\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f5ed56a57350b0503c4ba26f98161465\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\49e27b1620fa85df44f582f6e745416d\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38eb58a935201e7fd5910bad10232af2\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\a399cead24c1699186de94a60d670350\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\aae6f7799a477ff1822df2de4857ed2a\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\83138cc549e32b380b20095ac443585b\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\ec24db10588287ff5b805447cd9d4ac6\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\56da88a5b9723bf87a3ddf110d81046e\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\b5bd77072c69669851f444e3338da8f6\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c7c702bd1ec730c8dbd70ab43d896521\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\43e5a6f1b6b131bc8365c0a2c0e876b0\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\88b11d7b8d86ea89fb5532f5a2561e18\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\6e2ac304b41a3d0fb66cc44f5c49bf9d\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\712cc08d30899220a290a27d122372cc\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\177a53e1330193b9e8506bda1274004e\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\aa66a43e1ea8fd963bc26284cb8cd7a6\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\377eeb8bda43dfb02c0dd2b0e874bed4\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\5cd72a62e55e0da33939e4818cbe6897\transformed\activity-1.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\d6d8f89b1ad2625814612ad1eef7daea\transformed\activity-ktx-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\8951babb7fea1a78528e453717b866b5\transformed\activity-compose-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bedb84b00fa7f0704d0ff20152426563\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\91385ff2be11af2ebbc873204890f5a0\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\b9803b2b598a6564c2083a64e2a15b95\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07fec87315f0a27e642210257f0a69f9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\9e723664b5657d3a3d8b118aa66b75f4\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\83fa0b2384b779d8a6434df4cd45c921\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\2fe15b109f1206ce6c5feba067e62d83\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\59d9623ddb9309d819f9fb6fa943d3de\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bc160a49e34943e8db3353135f5f406f\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f577b1dd17c8503e4295e0dc032c3849\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\d676162a936f8ce35fcca55d4e14b7e9\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\5e47eca063ec593465b938b9e271e533\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\0e0ae0d3a75e940b9b255f78ff3f0dec\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f0f5a1cef36c8ce329a957b0a33d3ed6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3ceb0136a5b3ce317433e386c8a5aa53\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\be9dfa3abd152ed75e4cdc33485fde5b\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f287c460f7f5fb0b6abd62feef8ae097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bebfa5442e1f3b5a79cc877b886e419e\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\a85d0a5670d5a886f7863b27d5bd56d3\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f8dd5ac95abe9b9d277c1d789272e199\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\480ee68f1f2c207e2cbe7834d0653402\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:17:5-34:19
+INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:17:5-34:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\88b11d7b8d86ea89fb5532f5a2561e18\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\88b11d7b8d86ea89fb5532f5a2561e18\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\712cc08d30899220a290a27d122372cc\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\712cc08d30899220a290a27d122372cc\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3ceb0136a5b3ce317433e386c8a5aa53\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3ceb0136a5b3ce317433e386c8a5aa53\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f287c460f7f5fb0b6abd62feef8ae097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f287c460f7f5fb0b6abd62feef8ae097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:23:9-51
+activity#com.codelab.basics.MainActivity
+ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:label
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:27:13-45
+	android:exported
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3f8e9dacf2dabfc4a6993c0c2f1ce28f\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3f8e9dacf2dabfc4a6993c0c2f1ce28f\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\abcaac65ffe9b00899c47f0ff14de671\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\abcaac65ffe9b00899c47f0ff14de671\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f5ed56a57350b0503c4ba26f98161465\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f5ed56a57350b0503c4ba26f98161465\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\49e27b1620fa85df44f582f6e745416d\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\49e27b1620fa85df44f582f6e745416d\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38eb58a935201e7fd5910bad10232af2\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38eb58a935201e7fd5910bad10232af2\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\a399cead24c1699186de94a60d670350\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\a399cead24c1699186de94a60d670350\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\aae6f7799a477ff1822df2de4857ed2a\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\aae6f7799a477ff1822df2de4857ed2a\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\83138cc549e32b380b20095ac443585b\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\83138cc549e32b380b20095ac443585b\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\ec24db10588287ff5b805447cd9d4ac6\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\ec24db10588287ff5b805447cd9d4ac6\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\56da88a5b9723bf87a3ddf110d81046e\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\56da88a5b9723bf87a3ddf110d81046e\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\b5bd77072c69669851f444e3338da8f6\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\b5bd77072c69669851f444e3338da8f6\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c7c702bd1ec730c8dbd70ab43d896521\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c7c702bd1ec730c8dbd70ab43d896521\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\43e5a6f1b6b131bc8365c0a2c0e876b0\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\43e5a6f1b6b131bc8365c0a2c0e876b0\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\88b11d7b8d86ea89fb5532f5a2561e18\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\88b11d7b8d86ea89fb5532f5a2561e18\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\6e2ac304b41a3d0fb66cc44f5c49bf9d\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\6e2ac304b41a3d0fb66cc44f5c49bf9d\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\712cc08d30899220a290a27d122372cc\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\712cc08d30899220a290a27d122372cc\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\177a53e1330193b9e8506bda1274004e\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\177a53e1330193b9e8506bda1274004e\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\aa66a43e1ea8fd963bc26284cb8cd7a6\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\aa66a43e1ea8fd963bc26284cb8cd7a6\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\377eeb8bda43dfb02c0dd2b0e874bed4\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\377eeb8bda43dfb02c0dd2b0e874bed4\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\5cd72a62e55e0da33939e4818cbe6897\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\5cd72a62e55e0da33939e4818cbe6897\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\d6d8f89b1ad2625814612ad1eef7daea\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\d6d8f89b1ad2625814612ad1eef7daea\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\8951babb7fea1a78528e453717b866b5\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\8951babb7fea1a78528e453717b866b5\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bedb84b00fa7f0704d0ff20152426563\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bedb84b00fa7f0704d0ff20152426563\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\91385ff2be11af2ebbc873204890f5a0\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\91385ff2be11af2ebbc873204890f5a0\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\b9803b2b598a6564c2083a64e2a15b95\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\b9803b2b598a6564c2083a64e2a15b95\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07fec87315f0a27e642210257f0a69f9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07fec87315f0a27e642210257f0a69f9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\9e723664b5657d3a3d8b118aa66b75f4\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\9e723664b5657d3a3d8b118aa66b75f4\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\83fa0b2384b779d8a6434df4cd45c921\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\83fa0b2384b779d8a6434df4cd45c921\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\2fe15b109f1206ce6c5feba067e62d83\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\2fe15b109f1206ce6c5feba067e62d83\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\59d9623ddb9309d819f9fb6fa943d3de\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\59d9623ddb9309d819f9fb6fa943d3de\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bc160a49e34943e8db3353135f5f406f\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bc160a49e34943e8db3353135f5f406f\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f577b1dd17c8503e4295e0dc032c3849\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f577b1dd17c8503e4295e0dc032c3849\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\d676162a936f8ce35fcca55d4e14b7e9\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\d676162a936f8ce35fcca55d4e14b7e9\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\5e47eca063ec593465b938b9e271e533\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\5e47eca063ec593465b938b9e271e533\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\0e0ae0d3a75e940b9b255f78ff3f0dec\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\0e0ae0d3a75e940b9b255f78ff3f0dec\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f0f5a1cef36c8ce329a957b0a33d3ed6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f0f5a1cef36c8ce329a957b0a33d3ed6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3ceb0136a5b3ce317433e386c8a5aa53\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3ceb0136a5b3ce317433e386c8a5aa53\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\be9dfa3abd152ed75e4cdc33485fde5b\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\be9dfa3abd152ed75e4cdc33485fde5b\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f287c460f7f5fb0b6abd62feef8ae097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f287c460f7f5fb0b6abd62feef8ae097\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bebfa5442e1f3b5a79cc877b886e419e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\bebfa5442e1f3b5a79cc877b886e419e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\a85d0a5670d5a886f7863b27d5bd56d3\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\a85d0a5670d5a886f7863b27d5bd56d3\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f8dd5ac95abe9b9d277c1d789272e199\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\f8dd5ac95abe9b9d277c1d789272e199\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\480ee68f1f2c207e2cbe7834d0653402\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\480ee68f1f2c207e2cbe7834d0653402\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jooon\OneDrive\Documentos\GitHub\MiniACT2\BasicsCodelab\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\88b11d7b8d86ea89fb5532f5a2561e18\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\88b11d7b8d86ea89fb5532f5a2561e18\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\88b11d7b8d86ea89fb5532f5a2561e18\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\712cc08d30899220a290a27d122372cc\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\712cc08d30899220a290a27d122372cc\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\jooon\.gradle\caches\8.12.1\transforms\712cc08d30899220a290a27d122372cc\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3ceb0136a5b3ce317433e386c8a5aa53\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\jooon\.gradle\caches\8.12.1\transforms\3ceb0136a5b3ce317433e386c8a5aa53\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\07eb04e535968399fe9eae09dd95e8d1\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.codelab.basics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.codelab.basics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\60f31bf9ea076f1091bacfdb155a8508\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\jooon\.gradle\caches\8.12.1\transforms\38a1f6335a006bb0c9c3e3b772db1b0b\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\jooon\.gradle\caches\8.12.1\transforms\c5c04b3521275032601808e62bb0a580\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

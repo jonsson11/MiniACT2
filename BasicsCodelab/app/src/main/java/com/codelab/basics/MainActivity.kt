@@ -73,10 +73,13 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
+    Surface(color = MaterialTheme.colorScheme.primary){
+        Text(
+            text = "Hello $name!",
+            modifier = modifier
+        )
+    }
+
 }
 
 @Preview(showBackground = true)

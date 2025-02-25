@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicsCodelab</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <style name="Theme.BasicsCodelab" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
