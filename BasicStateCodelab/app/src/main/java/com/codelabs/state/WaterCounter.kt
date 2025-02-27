@@ -27,3 +27,21 @@ fun WaterCounter (modifier : Modifier = Modifier) {
 
     }
 }
+
+@Composable
+fun StatelessCounter(count: Int, onIncrement: () -> Unit, modifier: Modifier = Modifier) {
+    Column(modifier = modifier.padding(16.dp)) {
+        if (count < 0) {
+            Text(text = "You drank $count glasses.")
+        }
+        Button(onClick = onIncrement, modifier.padding(top = 8.dp), enabled = count < 10) {
+            Text("Add one glass")
+        }
+    }
+}
+
+@Composable
+fun StatefullCounter(modifier: Modifier = Modifier) {
+    var count by rememberSaveable { mutableStateOf(0) }
+    StatelessCounter(count, {count++}, modifier)
+}
